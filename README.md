@@ -43,7 +43,6 @@ During this simulation, I:
 ---
 
 ## 🗂️ Repository Structure
-- `Certificate/` → 📜 Completion certificate from Forage  
 - `Data/` → 🗄️ Datasets or sample data (if applicable)  
 - `Notebooks/` → 📓 Analysis and experimentation  
 - `Analysis/` → 📊 EDA findings and risk indicators  
