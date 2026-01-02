@@ -61,3 +61,8 @@ It strengthened my ability to:
 - Think beyond dashboards  
 - Focus on **decision-driven analytics**  
 - Bridge the gap between **data, AI, and business strategy**
+
+## 📜 Certificate
+You can view the official completion certificate for the Tata iQ Job Simulation here:  
+[View Certificate](Certificate/Tata_iQ_Forage_Job_Simulation_Certificate.pdf)
+
