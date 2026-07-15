@@ -9,7 +9,7 @@ The objective of the project was to design an **AI-powered approach** to identif
 and reduce customer credit delinquency using **data analytics**, **Generative AI tools**, 
 and **responsible AI principles**.
 
----
+----
 
 ## 🧩 Business Problem
 Financial institutions face increasing challenges in managing **customer credit delinquency**, 
@@ -21,7 +21,7 @@ The key goals of this simulation were to:
 - 🧠 Propose a no-code predictive modeling framework  
 - ⚙️ Design an AI-driven collections strategy  
 
----
+----
 
 ## 👤 My Role
 During this simulation, I:
